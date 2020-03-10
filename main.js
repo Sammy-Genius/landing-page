@@ -13,6 +13,6 @@ tl.from(".logo", {duration: 1, x: -40, opacity:0, ease: Power2.easeInOut})
 .from("#img2", {duration: 1, rotateX:360}, "+=.5")
 .from("#img2", {duration: 1, rotateY:180}, "+=.5")
 .from("#img3", {duration: 1, opacity:0, scale:0.3, ease:"elastic"}, "+=.5")
-.from("#img3", {duration: 1, rotateY:180}, "+=.5")
+.from("#img3", {duration: 1, rotateY:180}, "+=.5");
 
 
